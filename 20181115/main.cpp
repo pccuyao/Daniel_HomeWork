@@ -12,7 +12,17 @@ int main()
     {
            for(j=1;j<=num;j++) //Main
            {
-               for(i=j;i<num;i++) //Make space
+               switch(j){
+                case 1:i=1;
+                break;
+                case 2:i=1;
+                break;
+                case 3:i=2;
+                break;
+                case 4:i=4;
+                break;
+               }
+               for(i=i;i<num;i++) //Make space
                {
                    cout<< " ";
                }
