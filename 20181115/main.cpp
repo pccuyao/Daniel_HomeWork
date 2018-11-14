@@ -10,13 +10,13 @@ int main()
 
     if(num==4)
     {
-           for(j=1;j<=num;j++) //主迴圈
+           for(j=1;j<=num;j++) //Main
            {
-               for(i=j;i<num;i++) //製造空格
+               for(i=j;i<num;i++) //Make space
                {
                    cout<< " ";
                }
-               for(e=j;e>0;e--) //製造數字
+               for(e=j;e>0;e--) //make number
                 {
                     cout << e ;
                 }
