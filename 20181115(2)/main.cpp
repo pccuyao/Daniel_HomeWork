@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+    cout << "key any you want" <<endl;
     char ch;
     string str;
     for(;;) //star to scan
