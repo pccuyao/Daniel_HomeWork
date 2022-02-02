@@ -1,4 +1,4 @@
 # Daniel_HomeWork
 
-## ようこそ
-こんのリポジトリは、お友達に宿題を助けるために開設しました。
+## Welcome
+To help my friend Daniel do his homework, this project be created.
